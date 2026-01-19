@@ -1,0 +1,5 @@
+{
+  "name": "Video Transcript Pro",
+  "description": "Extract text, timecodes, and analyzing speech patterns from videos using Gemini AI.",
+  "requestFramePermissions": []
+}
